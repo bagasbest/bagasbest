@@ -22,18 +22,13 @@
 
 ---
 
-### Latest YouTube Video
+### 🎞️ Latest YouTube Video
 <!-- YOUTUBE:START -->
-- [Perencanaan Bisnis KWU](https://www.youtube.com/watch?v=_a_TAKKWVRQ)
-- [Tangani Covid-19 Apps, (video presentasi/DEMO) dari aplikasi](https://www.youtube.com/watch?v=gmILwnusBnk)
-- [Demo final working software mystuff - part 2](https://www.youtube.com/watch?v=L_icDXN0th4)
-- [Demo final working software mystuff - part 1](https://www.youtube.com/watch?v=LT_Bgdzwy3o)
-- [Spesifikasi teknis perangkat lunak mystuff](https://www.youtube.com/watch?v=dbBvpBmgrFE)
 <!-- YOUTUBE:END -->
 
 ---
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -54,6 +49,13 @@
 
 <br />
 <br />
+
+---
+<img align="left" alt="bagasbest Github Stats" src="https://github-readme-stats.vercel.app/api?username=bagasbest&show_icons=true&hide_border=true&theme=dracula" />
+
+---
+
+<img align="right" alt="bagasbest Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagasbest" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
