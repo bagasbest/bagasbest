@@ -32,6 +32,7 @@
 
 
 <img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" /> Main IDE : Android Studio
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.pngkit.com/png/full/214-2146480_visual-studio-code-logo-png-transparent-visual-studio.png" /> Second IDE : VS Code
 
 
