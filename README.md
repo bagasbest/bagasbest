@@ -1,10 +1,10 @@
 ### Hello everone!, My name is Bagas Pangestu - aka bagasbest 👋
 
 ## I am a Student, Android Developer, and like Technology especially smartphone 
-- 🔭 I’m currently working on a Android Studio
-- 🌱 I’m currently learning everything especially learing about life 🤣
+- 🔭 I’m currently working with Android Studio IDE & java
+- 🌱 I’m currently learning everything to improve my skills especially learing react native and kotlin 
 - 👯 I’m looking to collaborate with other developer to develope apps together
-- 🥅 2020 Goals: - Fluenty using mobile framework
+- 🥅 2020 Goals: - Fluenty using react native
                  - fluently use Kotlin
                  - finished Android path course in dicoding and coursera
 - ⚡ Fun fact: I have not girlfriend 🤣🤣🤣
