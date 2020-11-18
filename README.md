@@ -1,8 +1,8 @@
 ### Hello everone!, My name is Bagas Pangestu - aka bagasbest 👋
 
 ## I am a Student, Android Developer, and like Technology especially smartphone 
-- 🔭 I’m currently working with Android Studio IDE & java
-- 🌱 I’m currently learning everything to improve my skills especially learing react native and kotlin 
+- 🔭 I’m currently working with Android Studio IDE for Native (java, Kotlin), and Framework (Flutter).
+- 🌱 I’m currently learning everything to improve my skills especially learing react Flutter and kotlin 
 - 👯 I’m looking to collaborate with other developer to develope apps together
 - 🥅 2020 Goals: - Fluenty using react native
                  - fluently use Kotlin
