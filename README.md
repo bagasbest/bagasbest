@@ -1,10 +1,10 @@
 ### Hello everone!, My name is Bagas Pangestu - aka bagasbest 👋
 
 ## I am a Student, Android Developer, and like Technology especially smartphone 
-- 🔭 I’m currently working with Android Studio IDE for Native (java, Kotlin), and Framework (Flutter).
-- 🌱 I’m currently learning everything to improve my skills especially learing react Flutter and kotlin 
+- 🔭 I’m currently working on a Android Studio
+- 🌱 I’m currently learning everything especially learing about life 🤣
 - 👯 I’m looking to collaborate with other developer to develope apps together
-- 🥅 2020 Goals: - Fluenty using react native
+- 🥅 2020 Goals: - Fluenty using Flutter
                  - fluently use Kotlin
                  - finished Android path course in dicoding and coursera
 - ⚡ Fun fact: I have not girlfriend 🤣🤣🤣
@@ -24,11 +24,6 @@
 
 ### 🎞️ Latest YouTube Video
 <!-- YOUTUBE:START -->
-- [Perencanaan Bisnis KWU](https://www.youtube.com/watch?v=_a_TAKKWVRQ)
-- [Tangani Covid-19 Apps, (video presentasi/DEMO) dari aplikasi](https://www.youtube.com/watch?v=gmILwnusBnk)
-- [Demo final working software mystuff - part 2](https://www.youtube.com/watch?v=L_icDXN0th4)
-- [Demo final working software mystuff - part 1](https://www.youtube.com/watch?v=LT_Bgdzwy3o)
-- [Spesifikasi teknis perangkat lunak mystuff](https://www.youtube.com/watch?v=dbBvpBmgrFE)
 <!-- YOUTUBE:END -->
 
 ---
