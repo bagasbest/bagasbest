@@ -1,7 +1,7 @@
 ### Hello everone!, My name is Bagas Pangestu - aka bagasbest 👋
 
 ## I am a Student, Android Developer, and like Technology especially smartphone 
-- 🔭 I’m currently working on a Android Studio
+- 🔭 I’m currently working on a Android Developer
 - 🌱 I’m currently learning everything especially learing about life 🤣
 - 👯 I’m looking to collaborate with other developer to develope apps together
 - 🥅 2020 Goals: - Fluenty using Flutter
